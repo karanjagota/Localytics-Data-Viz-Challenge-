@@ -11,13 +11,15 @@ Data can be extracted from : [https://github.com/localytics/data-viz-challenge] 
 ![rplot08](https://cloud.githubusercontent.com/assets/7979139/24016606/dbaf65f0-0ab2-11e7-886e-6c1222a916b4.png)</br><br>
 3. Avg number of time client spent on type of project . </br></br>
 ![rplot09](https://cloud.githubusercontent.com/assets/7979139/24016636/ef782f18-0ab2-11e7-87c3-707fb1a58af2.png)</br></br>
-4. What Age group of people are more likely to View or Fund a Project ! </br></br> 
+4. People from which state in US is more likely to fund a project </br></br>
+![rplot11](https://cloud.githubusercontent.com/assets/7979139/24047588/2fbec264-0b4c-11e7-93f4-9aa353faaebb.png)</br></br>
+5. What Age group of people are more likely to View or Fund a Project ! </br></br> 
 ![rplot05](https://cloud.githubusercontent.com/assets/7979139/24016590/c540edca-0ab2-11e7-8bcd-33539daf6a4f.png)</br></br>
-5. Graph Between Category Vs Event Type</br></br>
+6. Graph Between Category Vs Event Type</br></br>
 ![rplot01](https://cloud.githubusercontent.com/assets/7979139/24016573/b3ad9284-0ab2-11e7-9e78-760da22e8167.png)</br></br>
-6. Device used by people of differnt age .</br></br> 
+7. Device used by people of differnt age .</br></br> 
 ![rplot07](https://cloud.githubusercontent.com/assets/7979139/24016848/b45ce436-0ab3-11e7-9c18-acf716e485aa.png)</br></br>
-7. Distribution of Type of Mobile by Gender !</br></br>
+8. Distribution of Type of Mobile by Gender !</br></br>
 ![rplot06](https://cloud.githubusercontent.com/assets/7979139/24016596/ce890a2a-0ab2-11e7-8b72-6fb610eb567c.png)
 
 
